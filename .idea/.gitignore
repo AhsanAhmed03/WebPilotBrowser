@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+.gradle
+/local.properties
+/build
+/captures
+.externalNativeBuild
+.safedk/
+/app/build
+/app/release

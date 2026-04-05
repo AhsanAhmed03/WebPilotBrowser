@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_trending.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_trending.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_home_logo_circle.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_home_logo_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_dialog_bookmarks_history.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_bookmarks_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_dialog_find_in_page.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_find_in_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_home_gradient.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_home_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_setting_item.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_setting_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_item_suggestion.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_code_block.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_code_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_active_dot.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_active_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_item_trending.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_trending.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_sheet_handle.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_sheet_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_dialog_cookie_manager.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_cookie_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_sugg_badge.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_sugg_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_restore.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_restore.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\xml_file_provider_paths.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\xml\\file_provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_dialog.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_dialog_downloads.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_close_btn.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_close_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_bottom_sheet_tabs.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\bottom_sheet_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_layout_home_page.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\layout_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_trend_number.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_trend_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_incognito.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_incognito.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_globe.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_globe.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_home_search.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_home_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_gradient_thumb_overlay.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\gradient_thumb_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_shortcut_icon.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_shortcut_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_tab_badge.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_tab_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_item_history_bookmark.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_history_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_item_download.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_news.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_btn_danger.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_btn_danger.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_tab_empty.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_tab_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_search_bar.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_btn_primary.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_btn_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_url_bar.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_url_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_arrow_forward.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_bookmark_filled.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_ic_tabs.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\ic_tabs.xml"
+    },
+    {
+        "merged": "com.browser.app-debug-42:/layout_layout_home_page.xml.flat",
+        "source": "com.browser.app-main-44:/layout/layout_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_dialog_settings.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_btn_danger_filled.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_btn_danger_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_icon_btn.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_icon_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_shortcut_card.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_shortcut_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_stats_card.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_stats_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_btn_secondary.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_btn_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_icon_circle.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_icon_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\drawable_bg_home_fab.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\drawable\\bg_home_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-debug-42:\\layout_item_tab.xml.flat",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_tab.xml"
+    }
+]

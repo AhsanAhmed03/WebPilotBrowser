@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\dialog_cookie_manager.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_cookie_manager.xml"
+    },
+    {
+        "merged": "com.browser.app-mergeDebugResources-41:/layout/layout_home_page.xml",
+        "source": "com.browser.app-main-44:/layout/layout_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\item_download.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\item_suggestion.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\dialog_find_in_page.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_find_in_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\item_news.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\bottom_sheet_tabs.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\bottom_sheet_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\item_tab.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\dialog_bookmarks_history.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_bookmarks_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\layout_home_page.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\layout_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\dialog_settings.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\item_trending.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_trending.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\item_history_bookmark.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\item_history_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-mergeDebugResources-41:\\layout\\dialog_downloads.xml",
+        "source": "C:\\Users\\PC Tecnologies\\.gradle\\daemon\\8.11.1\\com.browser.app-main-44:\\layout\\dialog_downloads.xml"
+    }
+]

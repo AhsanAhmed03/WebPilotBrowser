@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <EditText
+        android:id="@+id/etFind"
+        style="@style/BrowserEditText"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:background="@drawable/bg_search_bar"
+        android:hint="Find in page..."
+        
+        android:imeOptions="actionSearch"
+        android:inputType="text"
+        android:paddingHorizontal="12dp"
+        android:textColor="#C9D1D9"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tvResults"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="8dp"
+        android:text="0/0"
+        android:textColor="#8B949E"
+        android:textSize="12sp" />
+
+    <ImageButton
+        android:id="@+id/btnPrev"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/bg_icon_btn"
+        android:contentDescription="Previous"
+        android:padding="8dp"
+        android:src="@drawable/ic_arrow_back"
+        android:tint="#C9D1D9" />
+
+    <ImageButton
+        android:id="@+id/btnNext"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="4dp"
+        android:background="@drawable/bg_icon_btn"
+        android:contentDescription="Next"
+        android:padding="8dp"
+        android:src="@drawable/ic_arrow_forward"
+        android:tint="#C9D1D9" />
+
+    <ImageButton
+        android:id="@+id/btnClose"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="4dp"
+        android:background="@drawable/bg_icon_btn"
+        android:contentDescription="Close"
+        android:padding="8dp"
+        android:src="@drawable/ic_close"
+        android:tint="#8B949E" />
+
+</LinearLayout>
