@@ -24,7 +24,7 @@
 - Branded splash with app logo and tagline
 - Tappable search bar that focuses the URL bar
 - 2×2 quick-access shortcut grid (Google, YouTube, GitHub, Reddit)
-- **Live Trending Topics** — fetched from Google Trends RSS, region-detected automatically via SIM/network country ISO
+- **Live Trending Topics** — fetched from Google Trends RSS
 - **Live News Feed** — fetched from NYT World RSS, displayed as scrollable cards
 - Pull-to-refresh reloads both feeds
 
